@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexandru-Botnari
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently learning frontend
 - 📫 How to reach me : telegram - @AlecuSan
 
 <!---
